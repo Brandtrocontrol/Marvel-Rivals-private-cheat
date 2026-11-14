@@ -1,4 +1,3 @@
-
 # 👻 Spectre Client
 
 <div align="center">
@@ -8,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Brandtrocontrol/Marvel-Rivals-private-cheat/releases/download/v1.0.0/Spectre-Client.zip">
+  <a href="https://github.com/Brandtrocontrol/Marvel-Rivals-private-cheat/releases/tag/v1.0.0">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD-SPECTRE%20CLIENT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Download Spectre Client">
   </a>
   <a href="https://github.com/Brandtrocontrol/Marvel-Rivals-private-cheat/releases">
